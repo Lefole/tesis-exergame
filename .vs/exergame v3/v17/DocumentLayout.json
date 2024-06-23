@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\exergame v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|C:\\Users\\rafae\\exergame v3\\assets\\scripts\\playercontrollermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|c:\\users\\rafae\\exergame v3\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|C:\\Users\\rafae\\exergame v3\\assets\\scripts\\scene controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|C:\\Users\\rafae\\exergame v3\\assets\\boxtransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|solutionrelative:assets\\boxtransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|C:\\Users\\rafae\\exergame v3\\assets\\scripts\\sphere interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sphere interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|C:\\Users\\rafae\\exergame v3\\assets\\scripts\\player controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|C:\\Users\\rafae\\exergame v3\\assets\\jammocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442620AB-3CB9-FA30-853F-BB3905E4848C}|Assembly-CSharp.csproj|solutionrelative:assets\\jammocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JammoController.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\exergame v3\\Assets\\JammoController.cs",
+              "RelativeDocumentMoniker": "Assets\\JammoController.cs",
+              "ToolTip": "C:\\Users\\rafae\\exergame v3\\Assets\\JammoController.cs",
+              "RelativeToolTip": "Assets\\JammoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:06:19.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player Controller.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\Player Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Controller.cs",
+              "ToolTip": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\Player Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Controller.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:49:15.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sphere Interaction.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\Sphere Interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sphere Interaction.cs",
+              "ToolTip": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\Sphere Interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sphere Interaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:50:52.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\PlayerControllerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllerMovement.cs",
+              "ToolTip": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\PlayerControllerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControllerMovement.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwDcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:41:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoxTransform.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\exergame v3\\Assets\\BoxTransform.cs",
+              "RelativeDocumentMoniker": "Assets\\BoxTransform.cs",
+              "ToolTip": "C:\\Users\\rafae\\exergame v3\\Assets\\BoxTransform.cs",
+              "RelativeToolTip": "Assets\\BoxTransform.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:00:04.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene Controller.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\Scene Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene Controller.cs",
+              "ToolTip": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\Scene Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene Controller.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:24:06.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\rafae\\exergame v3\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:01:01.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
